@@ -1,0 +1,1 @@
+n this sales analysis report, annual sales data is being analyzed. In this report we have sales by year, quater and region, sales by category. Upon analyzing the data, found that office supplies being the highest selling category and majority of shares comes from consumer segment and then in that 30% west region is having a maximum profit. 
